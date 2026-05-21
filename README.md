@@ -72,7 +72,7 @@ while True:
         c.send("Not Found".encode())
 ```
 
-client.py
+client.py.
 ```
 
 import socket
